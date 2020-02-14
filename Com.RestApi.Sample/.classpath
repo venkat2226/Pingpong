@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json-schema-validator-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/jackson-annotations-2.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/jackson-core-2.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/jackson-databind-2.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/json-schema-validator-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/docs/json-schema-validator-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/json/docs/json-schema-validator-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/jsonPath/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/jsonPath/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/jsonPath/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/jsonPath/json-path-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/jsonPath/docs/json-path-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/jsonPath/docs/json-path-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/jsonPath/docs/rest-assured-common-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/jsonPath/docs/rest-assured-common-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/kotlin/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/kotlin/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/kotlin/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/kotlin/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/kotlin/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/kotlin/kotlin-extensions-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/kotlin/kotlin-stdlib-1.3.50.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/kotlin/kotlin-stdlib-common-1.3.50.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/kotlin/kotlin-stdlib-jdk7-1.3.50.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/kotlin/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/rest-assured-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/docs/json-path-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/docs/json-path-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/docs/rest-assured-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/docs/rest-assured-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/docs/rest-assured-common-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/docs/rest-assured-common-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/docs/xml-path-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/restassured/docs/xml-path-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/scala/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/scala/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/scala/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/scala/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/scala/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/scala/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/scala/scala-support-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/spring-commons-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/spring-mock-mvc-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/spring/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/xml-path-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/docs/rest-assured-common-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/docs/rest-assured-common-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/docs/xml-path-4.1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nagaraju.pagoti/Desktop/RestApi/RestAssuredJars/xml/docs/xml-path-4.1.2-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
